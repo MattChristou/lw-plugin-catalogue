@@ -4,7 +4,8 @@
   "plugins": {
     "SpectralColor": {
       "version": "1.0.0",
-      "name": "Spectral Color"
+      "name": "Spectral Color",
+      "notes": "Now built for macOS too (universal: Apple Silicon and Intel)."
     }
   }
 }
