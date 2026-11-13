@@ -1,11 +1,16 @@
 {
   "format": 1,
-  "updated": "2026-11-01",
+  "updated": "2026-11-13",
   "plugins": {
     "SpectralColor": {
       "version": "1.0.0",
       "name": "Spectral Color",
       "notes": "Now built for macOS too (universal: Apple Silicon and Intel)."
+    },
+    "OSLShader": {
+      "version": "0.48",
+      "name": "OSL Shader",
+      "notes": "Build 48: the node panel updates as soon as the shader changes; raytype(), screen/NDC/raster spaces, camera attributes, motion-blur globals, surfacearea(), isconnected()."
     }
   }
 }
